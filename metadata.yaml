@@ -1,0 +1,32 @@
+_repo: The-Princess-De-Montpensier_2365
+_version: 0.0.1
+creator:
+  author:
+    agent_name: La Fayette, Madame de (Marie-Madeleine Pioche de La Vergne)
+    aliases:
+    - LaFayette, Madame de (Marie-Madeleine Pioche de La Vergne)
+    - De La Fayette, Madame (Marie-Madeleine Pioche de La Vergne)
+    - Fayette, Marie-Madeleine Pioche de La Vergne, comtesse de La
+    - Fayette, Madame de La (Marie-Madeleine Pioche de La Vergne)
+    birthdate: 1634
+    deathdate: 1693
+    gutenberg_agent_id: '249'
+    url: http://www.gutenberg.org/2009/agents/249
+    wikipedia: http://en.wikipedia.org/wiki/Marie-Madeleine_Pioche_de_la_Vergne%2C_comtesse_de_la_Fayette
+description: ''
+gutenberg_issued: '2000-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2365'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Princesses -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'France -- History -- 16th century -- Fiction'
+- GITenberg
+title: The Princess De Montpensier
+url: http://www.gutenberg.org/ebooks/2365
